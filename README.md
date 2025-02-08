@@ -6,7 +6,7 @@
 
 
 ## 📞 联系我
-如果这个有不合规的地方的话  请务必要告知我！！ 🙏 谢谢！ :smile: :heart:
+如果这个有不合规的地方的话  请务必要告知我！！ 🙏 谢谢！ :smile: :heart:  
 📢 如果有问题，可以在 Issue 或 Pull Request 里 `@Dhgaj`，我会收到通知！  
 📧 邮件联系：sifanlian@gmail.com  
 
